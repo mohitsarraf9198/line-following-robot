@@ -20,8 +20,9 @@
 
 ## 📸 demo
 
-> add a photo or short video of your robot here — even a blurry phone photo makes a huge difference  
-> `![demo](docs/demo.gif)`
+<div align="center">
+<img src="linefollowingrobot.jpg" width="600"/>
+</div>
 
 ---
 
@@ -178,6 +179,7 @@ IR sensors struggle with low contrast. black electrical tape on cream tiles = un
 - hardware debugging with a multimeter (not just googling errors)
 - why common ground is non-negotiable
 - differential speed vs pivot turns
+- 90% of hardware bugs are power issues or a loose wire
 
 ---
 
