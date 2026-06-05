@@ -98,7 +98,7 @@ turning uses **differential speed** — both motors stay forward, outer wheel fa
 int in1 = 2, in2 = 4;        // right motor direction
 int in3 = 7, in4 = 8;        // left motor direction
 int enA = 9,  enB = 10;      // speed (PWM)
-int left_IR  = 11;            // ⚠️ not pin 13 — built-in LED causes false reads
+int left_IR  = 11;            
 int right_IR = 12;
 int motorSpeed = 77;
 
