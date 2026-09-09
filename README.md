@@ -176,7 +176,7 @@ IR sensors struggle with low contrast. black electrical tape on cream tiles = un
 
 <div align="center">
 
-**[Mohit Sarraf](https://github.com/mohitsarraf9198)** · project #1 of many
+**[Mohit Sarraf](https://github.com/mohitsarraf9198)** · project #1
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00979D,100:0d1117&height=100&section=footer" />
 
