@@ -164,15 +164,6 @@ IR sensors struggle with low contrast. black electrical tape on cream tiles = un
 
 ---
 
-## 🔮 next
-
-- [ ] PID control for smoother tracking
-- [ ] 3–5 sensors for better curves
-- [ ] obstacle avoidance (ultrasonic)
-- [ ] line-lost recovery routine
-
----
-
 ## 🧠 what i actually learned
 
 - IR sensors, motor drivers, PWM — how they really work
